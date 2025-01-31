@@ -1,8 +1,8 @@
 # Codebug-mechanical-toy
 ![output](https://github.com/user-attachments/assets/8ce210df-0a5d-4618-8c96-c8a1c9fd301b)   
-This is a mechanical toy I've made, it is designed after a codebug, the mascot of a Vtuber called Ellie Minibot(don't mind the led on the wrong side in the gif).  
+This is a mechanical toy I've made, it is designed after a codebug, the mascot of a Vtuber called [Ellie Minibot](https://www.twitch.tv/ellie_minibot)(don't mind the led on the wrong side in the gif).  
 It's quite finicky and it requires quite a lot of time to assemble.  
-This project was made by [Agasa's workshop](https://www.youtube.com/@agasa_workshop) I will probably make a video about how I designed it but I suck at making videos. 
+This project was made by [Agasa's workshop](https://www.youtube.com/@agasa_workshop) I will probably make a video about how I designed it but I suck at making videos, It can also be found on printables if you wish to give it a like [here](https://www.printables.com/model/1171872-codebug-mechanical-toy-from-ellie-minibot). 
 ![image](https://github.com/user-attachments/assets/e55accc7-12cd-431a-b5d9-c0f835c8e7ae)
 
 
