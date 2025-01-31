@@ -30,3 +30,15 @@ The spreadsheet also indicates the Hex colors of each part in the images.
 - For shafts and small gears: you should add a piece of paperclip in the dedicated hole after aligning it (for a better fit, bend the paper clips forward and then backward when inserting them. This ensures they have a bit more friction)
 - For the strings: you should remove the cams from the shaft, then pass all the strings through the closest hole in the base and arrange them from the bottom so that they do not overlap, then mount them to the screw holes with the wire_stops, ensure that they are tensioned enough to not nove the counterweights up but almost do it.
 - For the cams: you should first mark where the strings pass beneath the shaft (with a marker) and take note of which string moves which arm, then add the lower_arm_cam2 to the bottom 2 right arms(from the front), then add the lower_arm_cam 1 to the bottom 2 left arms and the upper_arm_cam to the top left one.     
+
+Here are the images that display the position of each component, there are also .blend files (blender) that have all the parts correctly named and positioned, the colors are listed in the spreadsheet:   
+![body_outside_2](https://github.com/user-attachments/assets/dab9153a-1d80-4edb-b395-e8d9873776d7)
+![body_outside_1](https://github.com/user-attachments/assets/b3bbd652-23bb-4864-9a8d-e75f3769f212)
+![body_inside_3](https://github.com/user-attachments/assets/7485d4dd-ed7c-479f-b2c4-60fe240656f4)
+![body_inside_2](https://github.com/user-attachments/assets/5d759aec-dc28-4ec1-a128-6d72514b5c80)
+![body_inside_1](https://github.com/user-attachments/assets/592e5b9d-2d95-45ee-86e9-64ad4405c577)
+![base_4](https://github.com/user-attachments/assets/77f25698-d791-45ce-a7fc-5667482ae5ab)
+![base_3](https://github.com/user-attachments/assets/f2586458-870b-4ddb-89c7-d7af7e284f4f)
+![base_2](https://github.com/user-attachments/assets/23d70bfe-948c-48c1-9bfa-ad5fa04cf817)
+![base_1](https://github.com/user-attachments/assets/83a94d89-a31f-4974-92c8-fe2d65dfae2d)
+
