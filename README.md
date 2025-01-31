@@ -11,7 +11,7 @@ This project was made by [Agasa's workshop](https://www.youtube.com/@agasa_works
 - soldering iron for heated inserts
 - some kind of grinding tool and a tool for cutting threaded rod (I used a dremel)
 - something to cut paper clips
-- also wear eye protection gear (and do not grind metal in your bedroom).
+- also wear eye protection gear and a dust mask when cutting/grinding metal (and do not grind metal in your bedroom).
 - Hotglue (or any kind of quick glue for plastic)  
 
 # Other than filament this will require:
