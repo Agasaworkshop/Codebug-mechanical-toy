@@ -41,6 +41,7 @@ The spreadsheet also indicates the Hex colors of each part in the images.
 - For the strings: you should remove the cams from the shaft, then pass all the strings through the closest hole in the base and arrange them from the bottom so that they do not overlap, then mount them to the screw holes with the wire_stops, ensure that they are tensioned enough to not move the counterweights up but almost do it.
 - For the cams: you should first mark where the strings pass beneath the shaft (with a marker) and take note of which string moves which arm, then add the lower_arm_cam2 to the bottom 2 right arms(from the front), then add the lower_arm_cam 1 to the bottom 2 left arms and the upper_arm_cam to the top left one.     
 - For the wobble_levers: snap them into place on the crankshaft, while mounting the body to the top make sure they pass through the dedicated hole, then add a piece of paper clip and bend both ends so that you secure it as a pivot.
+- For the back part: it should just stay on if you fit it in place.
 
 
 Here are the images that display the position of each component, there are also .blend files (blender) that have all the parts correctly named and positioned, the colors are listed in the spreadsheet:   
